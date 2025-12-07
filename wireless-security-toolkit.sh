@@ -44,8 +44,8 @@ header() {
     clear
     echo -e "${BLUE}"
   echo "╔══════════════════════════════════════════════════════════════╗"
-  echo "║                     WIRELESS SECURITY ASSESSMENT             ║"
-  echo "║                          🐇 White Rabbit 🐰                  "
+  echo "║                     WIRELESS SECURITY Toolkit                ║"
+  echo "║                       🐇 White Rabbit 🐰                     "
   echo "     👉 Visit me at: https://github.com/whiterabbit168          "
   echo "╚══════════════════════════════════════════════════════════════╝"
 
